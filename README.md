@@ -2,4 +2,4 @@
 
 POWERED BY ISMAIL OFFICIAL
 
-[DI SINI](https://ismailofficial.github.io
+[DI SINI](https://ismailofficial.github.io)
